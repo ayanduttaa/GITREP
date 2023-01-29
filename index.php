@@ -8,5 +8,8 @@
 </head>
 <body>
     hello worldnvv
+    <?php
+    echo 2+3;
+    ?>
 </body>
 </html>
